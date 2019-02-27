@@ -1,0 +1,34 @@
+.fakeimg {
+      height: 20rem;
+	  width: 100%;
+      background: #aaa;
+    }
+	
+.introimg {
+	height: 25rem;
+	width: 100%;
+	background: #aaa;
+}
+
+.introimg img{
+	height: 100%;
+	width: 100%;
+}
+	
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+	color: #fff;
+	background-color: #082E65;
+}
+
+a {
+	color: #082E65;
+	text-decoration: none;
+	background-color: transparent;
+}
+
+a:hover {
+	color: #E7A618;
+	text-decoration: underline;
+}
+
